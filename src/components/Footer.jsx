@@ -7,7 +7,7 @@ function Footer() {
 			Oladapo Omoworare
 			</a>
 			<a
-				href="mailto:webcifar@gmail.com"
+				href="mailto:oladapoomoworare@gmail.com"
 				className="text-sm md:text-md hover:text-indigo-500"
 			>
 				oladapoomoworare@gmail.com
