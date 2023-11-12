@@ -12,7 +12,7 @@ function About() {
 					href="mailto:webcifar.com"
 					className="block mt-3 text-md md:text-lg text-gray-700 dark:text-gray-300 underline decoration-1 hover:text-indigo-500 dark:hover:text-indigo-500"
 				>
-					oladapoomoworare@gmail.com@gmail.com
+					oladapoomoworare@gmail.com 
 				</a>
 				<a
 					href="tel:+17789849315"
