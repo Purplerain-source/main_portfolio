@@ -1,44 +1,39 @@
 export default [
-	{
-		title: '1inch Clone',
-		img:
-			'https://github.com/Dapper-D/1inch-clone/blob/main/src/assets/images/1inch.png?raw=true',
-		tech: ['React JS', 'Html', 'Css','JavaScript','Tailwind', ],
-		workUrl: 'https://1inch-clone.vercel.app',
-	},
-	{
-		title: "E-Commerce",
-		img:
-			'https://github.com/Dapper-D/e-commerce-landing-page/blob/main/img/e-commerce.png?raw=true',
-		tech: ['HTML', 'CSS', 'JavaScript'],
-		workUrl: 'https://dapper-d.github.io/e-commerce-landing-page/',
-	},
-	{
-		title: "BackRoads App",
-		img:
-			'https://github.com/Dapper-D/Backroads-app/blob/main/src/images/BACKROAD.png?raw=true',
-		tech: ['React JS', 'CSS'],
-		workUrl: 'https://backr0adsapp.netlify.app',
-	},
-	{
-		title: 'Pokemon index Site (not mobile friendly)',
-		img:
-			'https://github.com/Dapper-D/pokemon/blob/main/Pokemons/src/assets/pokemon.png?raw=true',
-		tech: ['Vite', 'CSS'],
-		workUrl: 'https://pokemoncatchem.netlify.app',
-	},
-	{
-		title: 'Youtube clone ',
-		img:
-			'https://github.com/Dapper-D/youtube-clone/blob/main/src/youtube.png?raw=true',
-		tech: ['React Js', 'CSS'],
-		workUrl: 'https://youtubescrapper.netlify.app',
-	},
-	{
-		title: 'Tidier Africa ',
-		img:
-			'https://github.com/Dapper-D/temp-work/blob/main/images/tidier.png?raw=true',
-		tech: ['Next Js', 'Tailwind CSS'],
-		workUrl: 'https://tidierafrica.com',
-	},
+  {
+    title: "Shirt Design",
+    img: "https://github.com/Dapper-D/3d-website/blob/50e46c61837481425e5bf267f5f9ad9b173cfb0e/client/image_2024-04-03_212235119.png?raw=true",
+    tech: ["HTML", "CSS", "JavaScript"],
+    workUrl: "https://3dwebsit3.vercel.app",
+  },
+  {
+    title: "1inch Clone",
+    img: "https://github.com/Dapper-D/1inch-clone/blob/main/src/assets/images/1inch.png?raw=true",
+    tech: ["React JS", "Html", "Css", "JavaScript", "Tailwind"],
+    workUrl: "https://1inch-clone.vercel.app",
+  },
+  {
+    title: "Tidier Africa ",
+    img: "https://github.com/Dapper-D/temp-work-main/blob/main/images/image_2024-04-03_213042060.png?raw=true",
+    tech: ["Next Js", "Tailwind CSS"],
+    workUrl: "https://tidierafrica.com",
+  },
+  {
+    title: "Pokemon index Site (not mobile friendly)",
+    img: "https://github.com/Dapper-D/pokemon/blob/main/Pokemons/src/assets/pokemon.png?raw=true",
+    tech: ["Vite", "CSS"],
+    workUrl: "https://pokemoncatchem.netlify.app",
+  },
+  {
+    title: "BackRoads App",
+    img: "https://github.com/Dapper-D/Backroads-app/blob/main/src/images/BACKROAD.png?raw=true",
+    tech: ["React JS", "CSS"],
+    workUrl: "https://backr0adsapp.netlify.app",
+  },
+
+  {
+    title: "Youtube clone ",
+    img: "https://github.com/Dapper-D/youtube-clone/blob/main/src/youtube.png?raw=true",
+    tech: ["React Js", "CSS"],
+    workUrl: "https://youtubescrapper.netlify.app",
+  },
 ];
