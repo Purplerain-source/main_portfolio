@@ -13,7 +13,7 @@ export default [
   },
   {
     title: "Spline Game",
-    img: "https://github.com/Dapper-D/1inch-clone/blob/main/src/assets/images/1inch.png?raw=true",
+    img: "https://github.com/Dapper-D/Spline-/blob/main/Screenshot%202024-05-21%20124611.png?raw=true",
     tech: ["Spline", "React", "Css", "JavaScript"],
     workUrl:
       "https://my.spline.design/smarthomefinal-3420b68d6235b9af37df7438c9367199/",
