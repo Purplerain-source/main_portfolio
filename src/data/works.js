@@ -1,7 +1,7 @@
 export default [
   {
     title: "Under50 - Budget Restaurant Finder",
-    img: "https://github.com/Dapper-D/main_portfolio/blob/48bdc6940b29a4d62b889462854318ecb3a2ce50/src/images/under50.png?raw=true",
+    img: "https://github.com/Dapper-D/main_portfolio/blob/8509ccad9b0560b2f771e7ac52a9e45523fd1ff4/src/images/under50.png?raw=true",
     tech: ["Next.js", "Tailwind CSS", "React"],
     workUrl: "https://under50.vercel.app/",
   },
