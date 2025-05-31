@@ -1,5 +1,17 @@
 export default [
   {
+    title: "Under50 - Budget Restaurant Finder",
+    img: "https://under50.vercel.app/og-image.png",
+    tech: ["Next.js", "Tailwind CSS", "React"],
+    workUrl: "https://under50.vercel.app/",
+  },
+  {
+    title: "Lawyer Up - Legal Services Platform",
+    img: "/src/images/lawyer-up.png",
+    tech: ["Next.js", "Tailwind CSS", "React"],
+    workUrl: "https://lawyer-up-xi.vercel.app/",
+  },
+  {
     title: "Shirt Design",
     img: "https://github.com/Dapper-D/3d-website/blob/50e46c61837481425e5bf267f5f9ad9b173cfb0e/client/image_2024-04-03_212235119.png?raw=true",
     tech: ["HTML", "CSS", "JavaScript"],
