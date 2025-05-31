@@ -1,7 +1,7 @@
 export default [
   {
     title: "Under50 - Budget Restaurant Finder",
-    img: "https://under50.vercel.app/og-image.png",
+    img: "/src/images/under50.png",
     tech: ["Next.js", "Tailwind CSS", "React"],
     workUrl: "https://under50.vercel.app/",
   },
