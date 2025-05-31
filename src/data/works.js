@@ -1,13 +1,13 @@
 export default [
   {
     title: "Under50 - Budget Restaurant Finder",
-    img: "https://github.com/Dapper-D/main_portfolio/blob/48bdc6940b29a4d62b889462854318ecb3a2ce50/src/images/under50.png",
+    img: "https://github.com/Dapper-D/main_portfolio/blob/48bdc6940b29a4d62b889462854318ecb3a2ce50/src/images/under50.png?raw=true",
     tech: ["Next.js", "Tailwind CSS", "React"],
     workUrl: "https://under50.vercel.app/",
   },
   {
     title: "Lawyer Up - Legal Services Platform",
-    img: "https://github.com/Dapper-D/main_portfolio/blob/48bdc6940b29a4d62b889462854318ecb3a2ce50/src/images/lawyer-up.png",
+    img: "https://github.com/Dapper-D/main_portfolio/blob/48bdc6940b29a4d62b889462854318ecb3a2ce50/src/images/lawyer-up.png?raw=true",
     tech: ["Next.js", "Tailwind CSS", "React"],
     workUrl: "https://lawyer-up-xi.vercel.app/",
   },
