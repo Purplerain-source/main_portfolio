@@ -1,62 +1,63 @@
-![React Tailwind Portfolio](./banner.png)
+![Banner](./banner.png)
 
-## React Tailwind Portfolio
+# 💼 Manny Mads — AI & Full-Stack Developer Portfolio
 
-A simple responsive portfolio website with `dark mode` feature.
+Welcome to my portfolio — a modern, full-stack, AI-powered developer showcase built with **React**, **Tailwind CSS**, and **Vite.js**.  
+This isn’t just a site — it’s a statement of technical mastery.
 
-**Live Preview:https://react-tailwind-portfolio.surge.sh/**
-
-**Watch on Youtube: [https://youtu.be/QTY2fLpQn44][yt-video]**
-
----
-
-### Made with ❤️ by [Shaif Arfan][arfan-ig]
-
-Like my works and want to support me?
-
-<a href="https://www.buymeacoffee.com/shaifarfan08" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 45px !important;width: 162.75px !important;" ></a>
+🔗 **Live Demo:** [Coming Soon]  
+📫 **Contact:** Chubski17@gmail.com  
+📂 **GitHub:** [github.com/Purplerain-source](https://github.com/Purplerain-source)
 
 ---
 
-Technologies used:
+## 👋 Who’s Manny Mads?
 
-- [React](https://reactjs.org/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [Vite.JS](https://vitejs.org/)
+I’m **Manny Mads** — an elite-level **AI Developer**, **Full-Stack Engineer**, and automation architect. I build intelligent systems that scale, and interfaces that inspire.
 
-## Other projects
+- 🧠 **AI & Machine Learning** — OpenAI, LangChain, Python NLP, RAG pipelines.
+- ⚙️ **Full-Stack Development** — React, Node.js, Express, MongoDB, Firebase.
+- 🧩 **Workflow Automation** — n8n, Zapier, custom bots, business process pipelines.
+- ☁️ **DevOps & Cloud** — Vercel, AWS, Railway, CI/CD.
+- 🎨 **UI/UX Engineer** — Tailwind, Framer Motion, Figma, pixel-perfect interfaces.
 
-📚 [All Web Cifar Projects][wc-projects]
+---
 
-## FAQ
+## 🛠️ Tech Stack Highlights
 
-### Q: How can i get started?
+| Category           | Tools & Frameworks |
+|--------------------|--------------------|
+| Frontend           | React, Tailwind CSS, Framer Motion, Vite |
+| Backend/API        | Node.js, Express, Flask, Django |
+| AI & Automation    | Python, OpenAI, LangChain, n8n |
+| Databases/Auth     | Firebase, Supabase, MongoDB, PostgreSQL |
+| Deployment/Cloud   | Vercel, Railway, Netlify, GitHub Actions |
+| Developer Tools    | Git, VSCode, Figma, Postman |
 
-You can get started by following the YouTube tutorial of this project. Here is the full tutorial video link: [YouTube Video][yt-video].
+---
 
-### Q: I can use this project for my website?
+## 📁 Featured Projects
 
-Yes you can. It absolutely free to use. If you want to support the project, you can [buy me a coffee][buymeacoffee].
+| Project                    | Description                                           | Stack |
+|----------------------------|-------------------------------------------------------|-------|
+| **AI Fitness Companion**   | GPT-powered personal trainer with pose tracking       | React, Flask, OpenCV |
+| **LegalOps Automation**    | Automated intake + billing flows for law firms        | Node.js, n8n |
+| **Crypto Portfolio Tracker**| Live asset analytics with wallet integrations       | React, Firebase, Chart.js |
+| **ActFastGlass Website**   | Built & deployed full site for a glazing company      | Next.js, Tailwind CSS |
 
-## Feedback
+---
 
-If you have any feedback, please reach out to us at [@web_cifar][wc-tw]
+## 🌍 Mission
 
-## Support
+To design, engineer, and ship AI-native solutions that push boundaries — empowering businesses and creators to scale smarter.
 
-For support, join our [Community Group][wc-fb-group].
+---
 
-## License
+## 📝 License
 
-[MIT][mit]
+This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/).
 
-Happy Coding! ✨🚀
+---
 
-[wc-tw]: http://twitter.com/webcifar
-[wc-yt]: http://www.youtube.com/webcifarOfficial
-[arfan-ig]: https://www.instagram.com/shaifarfan08/
-[wc-projects]: https://github.com/ShaifArfan/wc-project-tutorials
-[wc-fb-group]: https://www.facebook.com/groups/webcifar
-[mit]: https://choosealicense.com/licenses/mit/
-[yt-video]: https://youtu.be/QTY2fLpQn44
-[buymeacoffee]: https://www.buymeacoffee.com/shaifarfan08
+**Let’s build something legendary.**  
+_— Manny Mads_
